@@ -17,5 +17,5 @@
 
 ### 📬 **Conéctemos**:
 - **Correo**: richard232108@gmail.com
-- **LinkedIn**: [linkedin.com/in/richardpillaca](www.linkedin.com/in/richard-josue-pillaca-machaca-a63663229)
+- **LinkedIn**: [linkedin.com/in/richardpillaca](https://www.linkedin.com/in/richard-josue-pillaca-machaca-a63663229/)
 - **GitHub**: [github.com/richardpillaca](https://github.com/Lichal2108)
